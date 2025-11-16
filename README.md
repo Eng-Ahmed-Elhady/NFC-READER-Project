@@ -3,23 +3,19 @@
 This project was a full hardware development challenge combining power electronics, RF design, embedded control, and EMI/EMC-aware PCB layout.
 A special thanks to Altium Academy and Zach — I learned a lot from their content, and it greatly improved the quality of this design.
 Proud to say the system is now fully functional, reliable, and ready for integration.
-![1](https://github.com/user-attachments/assets/ef365b71-7e87-4151-ad20-b4324946f2ff)
-![7](https://github.com/user-attachments/assets/56e7d4a9-5d39-4d75-8043-9c97bb8ff87b)
-![2](https://github.com/user-attachments/assets/d1a28052-b670-440f-9f8b-fb3f1ee51532)
-[1.bmp](https://github.com/user-attachments/files/23566632/1.bmp)
-![15](https://github.com/user-attachments/assets/a17ccc2d-ba52-469a-8457-b824774fdbae)
-![14](https://github.com/user-attachments/assets/a44fdc80-2d4a-4524-86c8-ae7f22750bdc)
-![13](https://github.com/user-attachments/assets/6ac7f47d-77b0-4ab2-ae15-2d82e8ee7e19)
-![12](https://github.com/user-attachments/assets/7c49cac9-0fce-461b-8166-3bf1bcbb442b)
-[11.bmp](https://github.com/user-attachments/files/23566630/11.bmp)
-![10](https://github.com/user-attachments/assets/7c79b822-1406-4e13-920b-8eef21e1991c)
-![9](https://github.com/user-attachments/assets/b3365e32-65c8-4621-b977-2ca1d16c7cfd)
-![8](https://github.com/user-attachments/assets/f2631eb7-3fea-4a2f-b0bc-2f21b0c911ee)
-[7.bmp](https://github.com/user-attachments/files/23566628/7.bmp)
-![6](https://github.com/user-attachments/assets/8ea6f610-5be9-4f05-949c-e885ac7f413c)
-![5](https://github.com/user-attachments/assets/69100c4e-6935-4a01-a53e-7f0cf486e5dd)
-![4](https://github.com/user-attachments/assets/fe77fb29-622c-488f-a477-a103e4a139f7)
-![3](https://github.com/user-attachments/assets/adb94978-369f-4f26-81ec-eedc36cc3209)
+![1](https://github.com/user-attachments/assets/1af6b0ad-034a-45d4-8f13-23ac8a9d55ef)
+![2](https://github.com/user-attachments/assets/98cfadd7-99c7-4991-8966-b6c9079e36d0)
+![12](https://github.com/user-attachments/assets/7fe0dd74-a6e9-4c8b-85e1-1e256d57b9d7)![13](https://github.com/user-attachments/assets/0f9ee92e-6569-4a0d-876e-81a25110b3b3)
+![14](https://github.com/user-attachments/assets/de3b1a52-fcd1-4c90-a8b1-30adce3c974e)![15](https://github.com/user-attachments/assets/7d801eeb-fbf9-474f-8951-78d1de779c65)
+![11](https://github.com/user-attachments/assets/e848c3c6-72e6-4adc-9f00-4efbd1740db9)
+![10](https://github.com/user-attachments/assets/2869670b-8374-4603-9088-b6efb0158d58)
+![9](https://github.com/user-attachments/assets/3b20c25a-45e0-4ff9-afdb-0b67c5666329)
+![8](https://github.com/user-attachments/assets/072c359a-f087-46de-87ac-e4ed91918d50)
+![7](https://github.com/user-attachments/assets/a68588df-f7f3-42a9-8aa5-7a9d9f03d86e)
+![6](https://github.com/user-attachments/assets/a11de505-5316-47b5-bbf1-7c42dd441f07)
+![5](https://github.com/user-attachments/assets/6f877c56-4e86-409d-a762-7ccd8161ffeb)
+![4](https://github.com/user-attachments/assets/da287179-07a8-4693-9246-dccf1644e164)
+![3](https://github.com/user-attachments/assets/9fd63fa8-13a8-47f3-92c5-b697a2fab1b8)
 
 
 ⚡ 1. Power Architecture
